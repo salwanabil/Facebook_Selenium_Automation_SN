@@ -12,6 +12,10 @@ open (pom.xml) file then save it ,or enable auto import : to install maven depen
 
 navigate to \Java_Projects_IntelliJ\src\test\java\testcases\RegistrationTest.java  , To run the test right click then run RegistrationTest
 
+-if page open old view of facebook of login , only close the browser then rerun project after a while
+
+-to use your own data , just replace static values at 'RegistrationTest" class with valid one 
+
 
 
 Salwa Nabil
