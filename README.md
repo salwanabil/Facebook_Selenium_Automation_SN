@@ -5,6 +5,8 @@ This is maven project , containting and will updated regualry with Facebook func
   * Login
   
 To import this project , use any ide , I'm using Intelliji 2018 
+-unzip Java_Projects_IntelliJ.zip file then follow steps , this contain only registration , you caan find login at https://github.com/salwanabil/tasks , sorry for inconvenance until i have time i will merger both and make it dynamic.
+
 - if use Intelliji , select (File > open : select path of the project
 - if using Eclipse , use (File > import > maven project )
 after project has imported and open via IDE ,
